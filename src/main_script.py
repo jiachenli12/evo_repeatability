@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import itertools
 from itertools import combinations
-import os
 from itertools import product
 import seaborn as sns
 
