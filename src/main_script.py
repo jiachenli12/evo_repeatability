@@ -1,3 +1,12 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import itertools
+from itertools import combinations
+import os
+from itertools import product
+import seaborn as sns
+
 def assign_direction(logfc, df):
     """
     Assigns directions based on the logFC threshold.
