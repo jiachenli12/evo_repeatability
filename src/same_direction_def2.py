@@ -6,6 +6,9 @@ from itertools import combinations
 from itertools import product
 import seaborn as sns
 
+## the code below takes a log2 fold change dataframe (log2(evolved/ancestor))
+## this simulates the null distribution for each pair of parallel lines and combinations of >2 parallel lines
+
 def assign_direction(logfc, df):
     """
     Assigns directions based on the logFC threshold.
