@@ -5,4 +5,6 @@ This repo contains code for the manuscript: How repeatable is phenotypic evoluti
    
 2. same_direction_def2: the second definition of evolutionary repeatability
 
-3. magnitude_def3: the third definition of evolutionary repeatability 
+3. magnitude_def3: the third definition of evolutionary repeatability
+
+4. dice_coefficient: compute dice's coefficent
