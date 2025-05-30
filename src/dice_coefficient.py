@@ -25,7 +25,7 @@ def compute_dice_and_output(direction_df, output_file, num_simulations=1000):
     num_strains_total = len(direction_df.columns)
     
     with open(output_file, 'w') as f:
-        f.write("Strain Combination\tObserved Ratio (%)\tSimulated Mean (%)\tSimulated Std Dev (%)\n")
+        f.write("Line Combination\tObserved Dice\tSimulated Dice Mean\tSimulated Dice Std Dev\n")
         
         for num_strains in range(2, num_strains_total + 1):
             for strains in combinations(direction_df.columns, num_strains):
