@@ -23,13 +23,13 @@ def assign_direction_general(logfc, df):
 # In[3]:
 
 
-tf_data = pd.read_csv('/evo_repeatability/fig_reproduction/data/ecoli_TF_data.csv')
+tf_data = pd.read_csv('/evo_repeatability/fig_reproduction/Fig4_data/ecoli_TF_data.csv')
 
 
 # In[4]:
 
 
-lenski_deseq2_results = pd.read_csv('/evo_repeatability/fig_reproduction/data/lenski_deseq2_results.csv')
+lenski_deseq2_results = pd.read_csv('/evo_repeatability/fig_reproduction/Fig4_data/lenski_deseq2_results.csv')
 
 
 # In[5]:
@@ -93,7 +93,7 @@ exploded_df
 # In[8]:
 
 
-gff = gff3_parser.parse_gff3('/evo_repeatability/fig_reproduction/data/ecoli_b_rel1206_anno.gff',
+gff = gff3_parser.parse_gff3('/evo_repeatability/fig_reproduction/Fig4_data/ecoli_b_rel1206_anno.gff',
                                    verbose = False,parse_attributes=True)
 
 
@@ -316,7 +316,7 @@ merged_df
 # In[26]:
 
 
-ecoli_k12_gff = gff3_parser.parse_gff3('/evo_repeatability/fig_reproduction/data/ecoli_k12_anno.gff',
+ecoli_k12_gff = gff3_parser.parse_gff3('/evo_repeatability/fig_reproduction/Fig4_data/ecoli_k12_anno.gff',
                                    verbose = False,parse_attributes=True)
 
 
@@ -337,13 +337,13 @@ ecoli_k12_gff_filtered = (ecoli_k12_gff[ecoli_k12_gff['Type']=='gene']).reset_in
 # In[29]:
 
 
-ecoli_42C_expr = pd.read_csv('/evo_repeatability/fig_reproduction/data/ecoli_42C_organized.csv')
+ecoli_42C_expr = pd.read_csv('/evo_repeatability/fig_reproduction/Fig4_data/ecoli_42C_organized.csv')
 
 
 # In[30]:
 
 
-genes = pd.read_csv('/evo_repeatability/fig_reproduction/data/genes.txt')
+genes = pd.read_csv('/evo_repeatability/fig_reproduction/Fig4_data/genes.txt')
 ecoli_42C_expr = pd.concat([ecoli_42C_expr, genes], axis=1)
 
 
@@ -370,8 +370,8 @@ ecoli_42C_fc = pd.DataFrame(ecoli_42C_fc, index=ecoli_42C_a.index, columns=ecoli
 # In[33]:
 
 
-ecoli_42C_expr = pd.read_csv('/evo_repeatability/fig_reproduction/data/ecoli_42C_organized.csv')
-genes = pd.read_csv('/evo_repeatability/fig_reproduction/data/genes.txt')
+ecoli_42C_expr = pd.read_csv('/evo_repeatability/fig_reproduction/Fig4_data/ecoli_42C_organized.csv')
+genes = pd.read_csv('/evo_repeatability/fig_reproduction/Fig4_data/genes.txt')
 ecoli_42C_expr['gene_id'] = genes['gene'].values
 
 p_cols = [c for c in ecoli_42C_expr if c.startswith('WT')]
@@ -607,8 +607,8 @@ ecoli_42_2014_tfs
 # In[56]:
 
 
-ecoli_11_envs_p = pd.read_excel('/evo_repeatability/fig_reproduction/data/ecoli_11_envs_pState.xlsx')
-ecoli_11_envs_a = pd.read_excel('/evo_repeatability/fig_reproduction/data/ecoli_11_envs_aState.xlsx')
+ecoli_11_envs_p = pd.read_excel('/evo_repeatability/fig_reproduction/Fig4_data/ecoli_11_envs_pState.xlsx')
+ecoli_11_envs_a = pd.read_excel('/evo_repeatability/fig_reproduction/Fig4_data/ecoli_11_envs_aState.xlsx')
 
 
 # In[57]:
