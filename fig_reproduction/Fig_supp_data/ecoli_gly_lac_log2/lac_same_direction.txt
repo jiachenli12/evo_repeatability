@@ -1,0 +1,121 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+Lac2, Lac3	46.67	0.14	0.96
+Lac2, LacA	25.00	0.24	1.19
+Lac2, LacB	40.00	0.25	1.16
+Lac2, LacC	30.00	0.26	1.12
+Lac2, LacD	40.00	0.25	1.26
+Lac2, LacE	19.35	0.14	0.93
+Lac3, LacA	21.43	0.15	1.02
+Lac3, LacB	12.90	0.17	1.05
+Lac3, LacC	33.33	0.16	0.92
+Lac3, LacD	23.08	0.11	0.90
+Lac3, LacE	22.22	0.14	1.01
+LacA, LacB	42.42	0.28	1.27
+LacA, LacC	52.63	0.22	1.04
+LacA, LacD	50.00	0.24	1.32
+LacA, LacE	48.28	0.24	1.27
+LacB, LacC	48.78	0.27	1.13
+LacB, LacD	70.97	0.23	1.27
+LacB, LacE	6.25	0.24	1.21
+LacC, LacD	55.56	0.26	1.16
+LacC, LacE	16.22	0.24	1.11
+LacD, LacE	14.81	0.26	1.40
+Lac2, Lac3, LacA	6.67	0.00	0.00
+Lac2, Lac3, LacB	12.50	0.00	0.00
+Lac2, Lac3, LacC	16.98	0.00	0.00
+Lac2, Lac3, LacD	20.93	0.00	0.00
+Lac2, Lac3, LacE	6.82	0.00	0.00
+Lac2, LacA, LacB	18.00	0.01	0.19
+Lac2, LacA, LacC	16.36	0.00	0.00
+Lac2, LacA, LacD	20.00	0.00	0.00
+Lac2, LacA, LacE	13.04	0.00	0.00
+Lac2, LacB, LacC	25.86	0.00	0.00
+Lac2, LacB, LacD	31.25	0.00	0.00
+Lac2, LacB, LacE	6.12	0.00	0.00
+Lac2, LacC, LacD	33.96	0.00	0.00
+Lac2, LacC, LacE	5.56	0.00	0.00
+Lac2, LacD, LacE	6.82	0.00	0.00
+Lac3, LacA, LacB	0.00	0.00	0.00
+Lac3, LacA, LacC	11.76	0.00	0.00
+Lac3, LacA, LacD	0.00	0.00	0.00
+Lac3, LacA, LacE	14.29	0.00	0.00
+Lac3, LacB, LacC	11.11	0.00	0.00
+Lac3, LacB, LacD	13.64	0.00	0.00
+Lac3, LacB, LacE	0.00	0.00	0.00
+Lac3, LacC, LacD	18.37	0.00	0.00
+Lac3, LacC, LacE	12.00	0.00	0.00
+Lac3, LacD, LacE	0.00	0.00	0.00
+LacA, LacB, LacC	37.50	0.00	0.00
+LacA, LacB, LacD	45.65	0.01	0.21
+LacA, LacB, LacE	6.38	0.00	0.00
+LacA, LacC, LacD	41.18	0.00	0.00
+LacA, LacC, LacE	11.54	0.00	0.00
+LacA, LacD, LacE	7.14	0.00	0.00
+LacB, LacC, LacD	50.00	0.00	0.00
+LacB, LacC, LacE	5.45	0.00	0.00
+LacB, LacD, LacE	6.67	0.00	0.00
+LacC, LacD, LacE	6.00	0.00	0.00
+Lac2, Lac3, LacA, LacB	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacC	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacD	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacE	6.78	0.00	0.00
+Lac2, Lac3, LacB, LacC	11.27	0.00	0.00
+Lac2, Lac3, LacB, LacD	13.11	0.00	0.00
+Lac2, Lac3, LacB, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacC, LacD	18.18	0.00	0.00
+Lac2, Lac3, LacC, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacD, LacE	0.00	0.00	0.00
+Lac2, LacA, LacB, LacC	16.44	0.00	0.00
+Lac2, LacA, LacB, LacD	19.05	0.00	0.00
+Lac2, LacA, LacB, LacE	6.25	0.00	0.00
+Lac2, LacA, LacC, LacD	17.65	0.00	0.00
+Lac2, LacA, LacC, LacE	5.80	0.00	0.00
+Lac2, LacA, LacD, LacE	6.78	0.00	0.00
+Lac2, LacB, LacC, LacD	28.17	0.00	0.00
+Lac2, LacB, LacC, LacE	5.56	0.00	0.00
+Lac2, LacB, LacD, LacE	6.45	0.00	0.00
+Lac2, LacC, LacD, LacE	5.97	0.00	0.00
+Lac3, LacA, LacB, LacC	0.00	0.00	0.00
+Lac3, LacA, LacB, LacD	0.00	0.00	0.00
+Lac3, LacA, LacB, LacE	0.00	0.00	0.00
+Lac3, LacA, LacC, LacD	0.00	0.00	0.00
+Lac3, LacA, LacC, LacE	6.15	0.00	0.00
+Lac3, LacA, LacD, LacE	0.00	0.00	0.00
+Lac3, LacB, LacC, LacD	11.94	0.00	0.00
+Lac3, LacB, LacC, LacE	0.00	0.00	0.00
+Lac3, LacB, LacD, LacE	0.00	0.00	0.00
+Lac3, LacC, LacD, LacE	0.00	0.00	0.00
+LacA, LacB, LacC, LacD	40.58	0.00	0.00
+LacA, LacB, LacC, LacE	5.71	0.00	0.00
+LacA, LacB, LacD, LacE	6.67	0.00	0.00
+LacA, LacC, LacD, LacE	6.15	0.00	0.00
+LacB, LacC, LacD, LacE	5.88	0.00	0.00
+Lac2, Lac3, LacA, LacB, LacC	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacB, LacD	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacB, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacC, LacD	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacC, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacD, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacB, LacC, LacD	11.90	0.00	0.00
+Lac2, Lac3, LacB, LacC, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacB, LacD, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacC, LacD, LacE	0.00	0.00	0.00
+Lac2, LacA, LacB, LacC, LacD	17.44	0.00	0.00
+Lac2, LacA, LacB, LacC, LacE	5.75	0.00	0.00
+Lac2, LacA, LacB, LacD, LacE	6.49	0.00	0.00
+Lac2, LacA, LacC, LacD, LacE	6.10	0.00	0.00
+Lac2, LacB, LacC, LacD, LacE	5.88	0.00	0.00
+Lac3, LacA, LacB, LacC, LacD	0.00	0.00	0.00
+Lac3, LacA, LacB, LacC, LacE	0.00	0.00	0.00
+Lac3, LacA, LacB, LacD, LacE	0.00	0.00	0.00
+Lac3, LacA, LacC, LacD, LacE	0.00	0.00	0.00
+Lac3, LacB, LacC, LacD, LacE	0.00	0.00	0.00
+LacA, LacB, LacC, LacD, LacE	6.02	0.00	0.00
+Lac2, Lac3, LacA, LacB, LacC, LacD	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacB, LacC, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacB, LacD, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacC, LacD, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacB, LacC, LacD, LacE	0.00	0.00	0.00
+Lac2, LacA, LacB, LacC, LacD, LacE	6.00	0.00	0.00
+Lac3, LacA, LacB, LacC, LacD, LacE	0.00	0.00	0.00
+Lac2, Lac3, LacA, LacB, LacC, LacD, LacE	0.00	0.00	0.00

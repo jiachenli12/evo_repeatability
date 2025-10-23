@@ -1,0 +1,27 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+Mal-1, Mal-2	0.00	0.18	1.81
+Mal-1, Mal-3	23.08	0.27	1.41
+Mal-1, Mal-4	0.00	0.20	1.90
+Mal-1, Mal-5	11.76	0.22	1.61
+Mal-2, Mal-3	0.00	0.16	1.23
+Mal-2, Mal-4	33.33	0.03	1.05
+Mal-2, Mal-5	0.00	0.12	1.39
+Mal-3, Mal-4	0.00	0.10	0.95
+Mal-3, Mal-5	7.41	0.31	1.52
+Mal-4, Mal-5	0.00	0.07	1.05
+Mal-1, Mal-2, Mal-3	0.00	0.00	0.00
+Mal-1, Mal-2, Mal-4	0.00	0.00	0.00
+Mal-1, Mal-2, Mal-5	0.00	0.01	0.47
+Mal-1, Mal-3, Mal-4	0.00	0.00	0.00
+Mal-1, Mal-3, Mal-5	0.00	0.00	0.00
+Mal-1, Mal-4, Mal-5	0.00	0.00	0.00
+Mal-2, Mal-3, Mal-4	0.00	0.00	0.00
+Mal-2, Mal-3, Mal-5	0.00	0.00	0.00
+Mal-2, Mal-4, Mal-5	0.00	0.00	0.00
+Mal-3, Mal-4, Mal-5	0.00	0.00	0.00
+Mal-1, Mal-2, Mal-3, Mal-4	0.00	0.00	0.00
+Mal-1, Mal-2, Mal-3, Mal-5	0.00	0.00	0.00
+Mal-1, Mal-2, Mal-4, Mal-5	0.00	0.00	0.00
+Mal-1, Mal-3, Mal-4, Mal-5	0.00	0.00	0.00
+Mal-2, Mal-3, Mal-4, Mal-5	0.00	0.00	0.00
+Mal-1, Mal-2, Mal-3, Mal-4, Mal-5	0.00	0.00	0.00

@@ -1,0 +1,27 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+KCl-1, KCl-2	19.28	0.34	0.93
+KCl-1, KCl-3	42.70	0.40	0.98
+KCl-1, KCl-4	11.63	0.40	0.96
+KCl-1, KCl-5	5.06	0.27	0.82
+KCl-2, KCl-3	40.91	0.19	1.00
+KCl-2, KCl-4	39.02	0.23	1.07
+KCl-2, KCl-5	11.76	0.19	1.05
+KCl-3, KCl-4	25.53	0.24	1.00
+KCl-3, KCl-5	5.00	0.24	1.09
+KCl-4, KCl-5	16.22	0.22	1.07
+KCl-1, KCl-2, KCl-3	16.67	0.00	0.09
+KCl-1, KCl-2, KCl-4	14.29	0.00	0.09
+KCl-1, KCl-2, KCl-5	6.12	0.00	0.00
+KCl-1, KCl-3, KCl-4	10.81	0.01	0.15
+KCl-1, KCl-3, KCl-5	2.88	0.00	0.00
+KCl-1, KCl-4, KCl-5	5.94	0.00	0.00
+KCl-2, KCl-3, KCl-4	27.27	0.00	0.00
+KCl-2, KCl-3, KCl-5	5.08	0.00	0.00
+KCl-2, KCl-4, KCl-5	10.71	0.00	0.00
+KCl-3, KCl-4, KCl-5	4.84	0.00	0.15
+KCl-1, KCl-2, KCl-3, KCl-4	12.31	0.00	0.00
+KCl-1, KCl-2, KCl-3, KCl-5	3.25	0.00	0.00
+KCl-1, KCl-2, KCl-4, KCl-5	6.67	0.00	0.00
+KCl-1, KCl-3, KCl-4, KCl-5	3.17	0.00	0.00
+KCl-2, KCl-3, KCl-4, KCl-5	4.94	0.00	0.00
+KCl-1, KCl-2, KCl-3, KCl-4, KCl-5	3.45	0.00	0.00

@@ -1,0 +1,27 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+NaCl-1, NaCl-2	68.04	0.53	1.03
+NaCl-1, NaCl-3	42.11	0.30	0.88
+NaCl-1, NaCl-4	30.30	0.12	0.59
+NaCl-1, NaCl-5	19.72	0.26	0.85
+NaCl-2, NaCl-3	36.07	0.26	0.92
+NaCl-2, NaCl-4	39.22	0.15	0.77
+NaCl-2, NaCl-5	28.57	0.20	0.89
+NaCl-3, NaCl-4	66.67	0.27	1.32
+NaCl-3, NaCl-5	45.71	0.23	1.12
+NaCl-4, NaCl-5	56.00	0.16	1.12
+NaCl-1, NaCl-2, NaCl-3	25.64	0.00	0.08
+NaCl-1, NaCl-2, NaCl-4	28.04	0.00	0.00
+NaCl-1, NaCl-2, NaCl-5	18.75	0.00	0.00
+NaCl-1, NaCl-3, NaCl-4	34.88	0.00	0.00
+NaCl-1, NaCl-3, NaCl-5	23.08	0.00	0.00
+NaCl-1, NaCl-4, NaCl-5	25.93	0.00	0.00
+NaCl-2, NaCl-3, NaCl-4	42.25	0.00	0.00
+NaCl-2, NaCl-3, NaCl-5	27.63	0.00	0.00
+NaCl-2, NaCl-4, NaCl-5	31.82	0.00	0.00
+NaCl-3, NaCl-4, NaCl-5	46.67	0.00	0.00
+NaCl-1, NaCl-2, NaCl-3, NaCl-4	31.50	0.00	0.00
+NaCl-1, NaCl-2, NaCl-3, NaCl-5	21.21	0.00	0.00
+NaCl-1, NaCl-2, NaCl-4, NaCl-5	22.95	0.00	0.00
+NaCl-1, NaCl-3, NaCl-4, NaCl-5	27.72	0.00	0.00
+NaCl-2, NaCl-3, NaCl-4, NaCl-5	32.56	0.00	0.00
+NaCl-1, NaCl-2, NaCl-3, NaCl-4, NaCl-5	24.65	0.00	0.00

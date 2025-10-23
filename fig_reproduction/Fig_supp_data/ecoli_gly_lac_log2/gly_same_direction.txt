@@ -1,0 +1,121 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+Gly1, Gly2	18.18	0.32	0.90
+Gly1, GlyA	9.76	0.29	1.19
+Gly1, GlyB	14.29	0.23	1.06
+Gly1, GlyC	5.88	0.18	1.05
+Gly1, GlyD	10.53	0.18	1.00
+Gly1, GlyE	13.79	0.19	1.18
+Gly2, GlyA	2.38	0.34	0.88
+Gly2, GlyB	4.71	0.36	0.91
+Gly2, GlyC	0.00	0.12	0.56
+Gly2, GlyD	2.47	0.40	0.99
+Gly2, GlyE	2.78	0.32	0.97
+GlyA, GlyB	85.71	0.28	1.05
+GlyA, GlyC	24.39	0.26	1.17
+GlyA, GlyD	57.78	0.20	0.92
+GlyA, GlyE	44.44	0.18	0.98
+GlyB, GlyC	19.05	0.20	0.97
+GlyB, GlyD	56.52	0.30	1.09
+GlyB, GlyE	48.65	0.21	1.06
+GlyC, GlyD	36.84	0.25	1.17
+GlyC, GlyE	13.79	0.11	0.92
+GlyD, GlyE	60.61	0.18	1.03
+Gly1, Gly2, GlyA	0.00	0.00	0.09
+Gly1, Gly2, GlyB	2.94	0.00	0.09
+Gly1, Gly2, GlyC	0.00	0.00	0.00
+Gly1, Gly2, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyE	0.00	0.00	0.00
+Gly1, GlyA, GlyB	9.09	0.00	0.14
+Gly1, GlyA, GlyC	0.00	0.00	0.00
+Gly1, GlyA, GlyD	9.68	0.00	0.00
+Gly1, GlyA, GlyE	11.32	0.00	0.00
+Gly1, GlyB, GlyC	0.00	0.00	0.00
+Gly1, GlyB, GlyD	9.52	0.00	0.00
+Gly1, GlyB, GlyE	11.11	0.00	0.00
+Gly1, GlyC, GlyD	0.00	0.00	0.00
+Gly1, GlyC, GlyE	0.00	0.00	0.00
+Gly1, GlyD, GlyE	12.00	0.00	0.00
+Gly2, GlyA, GlyB	0.00	0.00	0.00
+Gly2, GlyA, GlyC	0.00	0.00	0.00
+Gly2, GlyA, GlyD	0.00	0.00	0.09
+Gly2, GlyA, GlyE	0.00	0.00	0.00
+Gly2, GlyB, GlyC	0.00	0.00	0.00
+Gly2, GlyB, GlyD	2.83	0.00	0.00
+Gly2, GlyB, GlyE	3.09	0.00	0.00
+Gly2, GlyC, GlyD	0.00	0.00	0.00
+Gly2, GlyC, GlyE	0.00	0.00	0.00
+Gly2, GlyD, GlyE	3.23	0.00	0.00
+GlyA, GlyB, GlyC	18.18	0.00	0.00
+GlyA, GlyB, GlyD	51.43	0.00	0.00
+GlyA, GlyB, GlyE	39.34	0.00	0.00
+GlyA, GlyC, GlyD	19.35	0.00	0.00
+GlyA, GlyC, GlyE	5.66	0.00	0.00
+GlyA, GlyD, GlyE	42.11	0.00	0.00
+GlyB, GlyC, GlyD	14.29	0.00	0.00
+GlyB, GlyC, GlyE	5.56	0.00	0.00
+GlyB, GlyD, GlyE	46.55	0.00	0.00
+GlyC, GlyD, GlyE	6.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyB	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyC	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyB, GlyC	0.00	0.00	0.00
+Gly1, Gly2, GlyB, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyB, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyC, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyC, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyD, GlyE	0.00	0.00	0.00
+Gly1, GlyA, GlyB, GlyC	0.00	0.00	0.00
+Gly1, GlyA, GlyB, GlyD	9.20	0.00	0.00
+Gly1, GlyA, GlyB, GlyE	10.26	0.00	0.00
+Gly1, GlyA, GlyC, GlyD	0.00	0.00	0.00
+Gly1, GlyA, GlyC, GlyE	0.00	0.00	0.00
+Gly1, GlyA, GlyD, GlyE	10.81	0.00	0.00
+Gly1, GlyB, GlyC, GlyD	0.00	0.00	0.00
+Gly1, GlyB, GlyC, GlyE	0.00	0.00	0.00
+Gly1, GlyB, GlyD, GlyE	10.67	0.00	0.00
+Gly1, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly2, GlyA, GlyB, GlyC	0.00	0.00	0.00
+Gly2, GlyA, GlyB, GlyD	0.00	0.00	0.00
+Gly2, GlyA, GlyB, GlyE	0.00	0.00	0.00
+Gly2, GlyA, GlyC, GlyD	0.00	0.00	0.00
+Gly2, GlyA, GlyC, GlyE	0.00	0.00	0.00
+Gly2, GlyA, GlyD, GlyE	0.00	0.00	0.00
+Gly2, GlyB, GlyC, GlyD	0.00	0.00	0.00
+Gly2, GlyB, GlyC, GlyE	0.00	0.00	0.00
+Gly2, GlyB, GlyD, GlyE	3.39	0.00	0.00
+Gly2, GlyC, GlyD, GlyE	0.00	0.00	0.00
+GlyA, GlyB, GlyC, GlyD	13.79	0.00	0.00
+GlyA, GlyB, GlyC, GlyE	5.13	0.00	0.00
+GlyA, GlyB, GlyD, GlyE	39.02	0.00	0.00
+GlyA, GlyC, GlyD, GlyE	5.41	0.00	0.00
+GlyB, GlyC, GlyD, GlyE	5.33	0.00	0.00
+Gly1, Gly2, GlyA, GlyB, GlyC	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyB, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyB, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyC, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyC, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyD, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyB, GlyC, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyB, GlyC, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyB, GlyD, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly1, GlyA, GlyB, GlyC, GlyD	0.00	0.00	0.00
+Gly1, GlyA, GlyB, GlyC, GlyE	0.00	0.00	0.00
+Gly1, GlyA, GlyB, GlyD, GlyE	10.10	0.00	0.00
+Gly1, GlyA, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly1, GlyB, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly2, GlyA, GlyB, GlyC, GlyD	0.00	0.00	0.00
+Gly2, GlyA, GlyB, GlyC, GlyE	0.00	0.00	0.00
+Gly2, GlyA, GlyB, GlyD, GlyE	0.00	0.00	0.00
+Gly2, GlyA, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly2, GlyB, GlyC, GlyD, GlyE	0.00	0.00	0.00
+GlyA, GlyB, GlyC, GlyD, GlyE	5.05	0.00	0.00
+Gly1, Gly2, GlyA, GlyB, GlyC, GlyD	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyB, GlyC, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyB, GlyD, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyB, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly1, GlyA, GlyB, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly2, GlyA, GlyB, GlyC, GlyD, GlyE	0.00	0.00	0.00
+Gly1, Gly2, GlyA, GlyB, GlyC, GlyD, GlyE	0.00	0.00	0.00

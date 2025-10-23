@@ -1,0 +1,10 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)	P_Value
+S_YPGS_2, O_YPGO_1	18.7	8.4	0.9	0.0010
+S_YPGS_2, O_YPGO_2	18.8	8.4	0.9	0.0010
+S_YPGS_2, O_YPGO_3	18.8	8.3	1.0	0.0010
+S_YPGS_3, O_YPGO_1	30.2	12.6	1.1	0.0010
+S_YPGS_3, O_YPGO_2	30.6	12.6	1.0	0.0010
+S_YPGS_3, O_YPGO_3	30.8	12.4	1.1	0.0010
+S_YPGS_1_4_mean, O_YPGO_1	28.9	9.4	1.0	0.0010
+S_YPGS_1_4_mean, O_YPGO_2	29.4	9.4	1.0	0.0010
+S_YPGS_1_4_mean, O_YPGO_3	29.8	9.4	1.0	0.0010

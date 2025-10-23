@@ -1,0 +1,27 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+CoCl2-1, CoCl2-2	15.38	0.45	1.31
+CoCl2-1, CoCl2-3	60.87	0.78	1.50
+CoCl2-1, CoCl2-4	60.00	0.70	1.41
+CoCl2-1, CoCl2-5	55.07	0.77	1.46
+CoCl2-2, CoCl2-3	17.78	0.40	1.28
+CoCl2-2, CoCl2-4	17.39	0.46	1.44
+CoCl2-2, CoCl2-5	22.22	0.39	1.27
+CoCl2-3, CoCl2-4	69.84	0.67	1.51
+CoCl2-3, CoCl2-5	74.19	0.75	1.55
+CoCl2-4, CoCl2-5	60.32	0.69	1.50
+CoCl2-1, CoCl2-2, CoCl2-3	10.84	0.01	0.20
+CoCl2-1, CoCl2-2, CoCl2-4	7.14	0.00	0.00
+CoCl2-1, CoCl2-2, CoCl2-5	14.46	0.00	0.11
+CoCl2-1, CoCl2-3, CoCl2-4	50.50	0.01	0.19
+CoCl2-1, CoCl2-3, CoCl2-5	54.00	0.01	0.16
+CoCl2-1, CoCl2-4, CoCl2-5	47.52	0.01	0.13
+CoCl2-2, CoCl2-3, CoCl2-4	11.69	0.00	0.00
+CoCl2-2, CoCl2-3, CoCl2-5	15.79	0.00	0.00
+CoCl2-2, CoCl2-4, CoCl2-5	11.69	0.01	0.17
+CoCl2-3, CoCl2-4, CoCl2-5	60.64	0.00	0.10
+CoCl2-1, CoCl2-2, CoCl2-3, CoCl2-4	6.96	0.00	0.00
+CoCl2-1, CoCl2-2, CoCl2-3, CoCl2-5	10.53	0.00	0.00
+CoCl2-1, CoCl2-2, CoCl2-4, CoCl2-5	6.96	0.00	0.00
+CoCl2-1, CoCl2-3, CoCl2-4, CoCl2-5	48.48	0.00	0.00
+CoCl2-2, CoCl2-3, CoCl2-4, CoCl2-5	11.11	0.00	0.00
+CoCl2-1, CoCl2-2, CoCl2-3, CoCl2-4, CoCl2-5	6.85	0.00	0.00

@@ -1,0 +1,27 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+Lac-1, Lac-2	31.58	0.07	0.88
+Lac-1, Lac-3	33.33	0.09	0.87
+Lac-1, Lac-4	34.78	0.12	1.02
+Lac-1, Lac-5	29.27	0.14	0.85
+Lac-2, Lac-3	32.00	0.08	0.80
+Lac-2, Lac-4	33.33	0.14	1.08
+Lac-2, Lac-5	14.29	0.20	0.96
+Lac-3, Lac-4	27.59	0.19	1.12
+Lac-3, Lac-5	17.02	0.23	0.95
+Lac-4, Lac-5	26.09	0.20	1.00
+Lac-1, Lac-2, Lac-3	17.65	0.00	0.00
+Lac-1, Lac-2, Lac-4	27.27	0.00	0.00
+Lac-1, Lac-2, Lac-5	17.65	0.00	0.00
+Lac-1, Lac-3, Lac-4	15.79	0.00	0.00
+Lac-1, Lac-3, Lac-5	16.07	0.00	0.00
+Lac-1, Lac-4, Lac-5	21.82	0.00	0.00
+Lac-2, Lac-3, Lac-4	23.08	0.00	0.00
+Lac-2, Lac-3, Lac-5	10.53	0.00	0.00
+Lac-2, Lac-4, Lac-5	16.07	0.00	0.00
+Lac-3, Lac-4, Lac-5	14.75	0.00	0.16
+Lac-1, Lac-2, Lac-3, Lac-4	16.67	0.00	0.00
+Lac-1, Lac-2, Lac-3, Lac-5	12.12	0.00	0.00
+Lac-1, Lac-2, Lac-4, Lac-5	18.46	0.00	0.00
+Lac-1, Lac-3, Lac-4, Lac-5	11.43	0.00	0.00
+Lac-2, Lac-3, Lac-4, Lac-5	11.27	0.00	0.00
+Lac-1, Lac-2, Lac-3, Lac-4, Lac-5	12.50	0.00	0.00
