@@ -1,8 +1,8 @@
 # Evolutionary repeatability
-This repo contains python code for the paper: How repeatable is phenotypic evolution?
+This repo contains python code and data for the paper: How repeatable is phenotypic evolution?
 
 fig_reproduction:
-This directory contains code and necessary data to reproduce the figures presented in the paper. 
+This directory contains code and all necessary data to reproduce main and supplementary figures presented in the paper. 
 
 src:
 This directory contains custom code to examine the three definitions of gene expression evoution repeatability.
