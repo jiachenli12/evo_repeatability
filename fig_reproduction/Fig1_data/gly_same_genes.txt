@@ -1,0 +1,121 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+glycerol1, glycerol2	87.78	30.22	1.04
+glycerol1, glycerolA	63.87	36.66	0.78
+glycerol1, glycerolB	59.38	37.82	0.71
+glycerol1, glycerolC	60.88	37.50	0.72
+glycerol1, glycerolD	59.70	37.71	0.74
+glycerol1, glycerolE	98.13	27.45	1.10
+glycerol2, glycerolA	74.99	43.02	0.74
+glycerol2, glycerolB	70.12	44.67	0.69
+glycerol2, glycerolC	71.75	44.09	0.74
+glycerol2, glycerolD	70.46	44.55	0.70
+glycerol2, glycerolE	89.63	30.87	1.04
+glycerolA, glycerolB	94.73	60.39	0.61
+glycerolA, glycerolC	96.51	59.34	0.62
+glycerolA, glycerolD	95.11	60.16	0.59
+glycerolA, glycerolE	65.51	37.53	0.76
+glycerolB, glycerolC	98.22	62.59	0.57
+glycerolB, glycerolD	99.62	63.51	0.54
+glycerolB, glycerolE	60.95	38.86	0.70
+glycerolC, glycerolD	98.59	62.35	0.57
+glycerolC, glycerolE	62.47	38.42	0.73
+glycerolD, glycerolE	61.27	38.77	0.73
+glycerol1, glycerol2, glycerolA	68.04	13.38	0.74
+glycerol1, glycerol2, glycerolB	64.57	14.17	0.67
+glycerol1, glycerol2, glycerolC	65.74	13.89	0.73
+glycerol1, glycerol2, glycerolD	64.81	14.11	0.72
+glycerol1, glycerol2, glycerolE	90.46	8.69	0.75
+glycerol1, glycerolA, glycerolB	54.55	19.93	0.66
+glycerol1, glycerolA, glycerolC	55.39	19.49	0.68
+glycerol1, glycerolA, glycerolD	54.73	19.86	0.69
+glycerol1, glycerolA, glycerolE	71.96	11.51	0.69
+glycerol1, glycerolB, glycerolC	53.07	20.78	0.64
+glycerol1, glycerolB, glycerolD	52.46	21.14	0.66
+glycerol1, glycerolB, glycerolE	68.09	12.09	0.70
+glycerol1, glycerolC, glycerolD	53.24	20.67	0.65
+glycerol1, glycerolC, glycerolE	69.39	11.92	0.66
+glycerol1, glycerolD, glycerolE	68.36	12.11	0.68
+glycerol2, glycerolA, glycerolB	66.38	24.24	0.69
+glycerol2, glycerolA, glycerolC	67.35	23.71	0.69
+glycerol2, glycerolA, glycerolD	66.58	24.15	0.70
+glycerol2, glycerolA, glycerolE	70.02	13.81	0.72
+glycerol2, glycerolB, glycerolC	64.66	25.34	0.71
+glycerol2, glycerolB, glycerolD	63.95	25.78	0.70
+glycerol2, glycerolB, glycerolE	66.48	14.61	0.71
+glycerol2, glycerolC, glycerolD	64.85	25.20	0.69
+glycerol2, glycerolC, glycerolE	67.68	14.31	0.72
+glycerol2, glycerolD, glycerolE	66.73	14.51	0.72
+glycerolA, glycerolB, glycerolC	94.24	36.99	0.70
+glycerolA, glycerolB, glycerolD	93.34	37.61	0.67
+glycerolA, glycerolB, glycerolE	56.24	20.56	0.69
+glycerolA, glycerolC, glycerolD	94.49	36.77	0.68
+glycerolA, glycerolC, glycerolE	57.10	20.16	0.69
+glycerolA, glycerolD, glycerolE	56.42	20.48	0.69
+glycerolB, glycerolC, glycerolD	97.89	39.41	0.66
+glycerolB, glycerolC, glycerolE	54.72	21.39	0.67
+glycerolB, glycerolD, glycerolE	54.10	21.80	0.66
+glycerolC, glycerolD, glycerolE	54.89	21.34	0.72
+glycerol1, glycerol2, glycerolA, glycerolB	59.02	7.43	0.54
+glycerol1, glycerol2, glycerolA, glycerolC	59.75	7.25	0.55
+glycerol1, glycerol2, glycerolA, glycerolD	59.17	7.41	0.54
+glycerol1, glycerol2, glycerolA, glycerolE	73.43	4.06	0.48
+glycerol1, glycerol2, glycerolB, glycerolC	57.71	7.82	0.54
+glycerol1, glycerol2, glycerolB, glycerolD	57.17	7.92	0.56
+glycerol1, glycerol2, glycerolB, glycerolE	70.37	4.31	0.48
+glycerol1, glycerol2, glycerolC, glycerolD	57.86	7.76	0.53
+glycerol1, glycerol2, glycerolC, glycerolE	71.41	4.22	0.48
+glycerol1, glycerol2, glycerolD, glycerolE	70.59	4.29	0.46
+glycerol1, glycerolA, glycerolB, glycerolC	51.39	11.53	0.58
+glycerol1, glycerolA, glycerolB, glycerolD	50.96	11.81	0.56
+glycerol1, glycerolA, glycerolB, glycerolE	61.19	6.23	0.51
+glycerol1, glycerolA, glycerolC, glycerolD	51.50	11.48	0.56
+glycerol1, glycerolA, glycerolC, glycerolE	61.97	6.15	0.52
+glycerol1, glycerolA, glycerolD, glycerolE	61.35	6.23	0.51
+glycerol1, glycerolB, glycerolC, glycerolD	49.98	12.41	0.58
+glycerol1, glycerolB, glycerolC, glycerolE	59.78	6.55	0.52
+glycerol1, glycerolB, glycerolD, glycerolE	59.20	6.68	0.52
+glycerol1, glycerolC, glycerolD, glycerolE	59.94	6.51	0.50
+glycerol2, glycerolA, glycerolB, glycerolC	63.42	14.26	0.62
+glycerol2, glycerolA, glycerolB, glycerolD	62.91	14.49	0.60
+glycerol2, glycerolA, glycerolB, glycerolE	60.92	7.66	0.53
+glycerol2, glycerolA, glycerolC, glycerolD	63.56	14.18	0.61
+glycerol2, glycerolA, glycerolC, glycerolE	61.67	7.48	0.54
+glycerol2, glycerolA, glycerolD, glycerolE	61.08	7.61	0.55
+glycerol2, glycerolB, glycerolC, glycerolD	61.74	15.33	0.60
+glycerol2, glycerolB, glycerolC, glycerolE	59.58	8.02	0.55
+glycerol2, glycerolB, glycerolD, glycerolE	59.03	8.17	0.54
+glycerol2, glycerolC, glycerolD, glycerolE	59.73	8.02	0.52
+glycerolA, glycerolB, glycerolC, glycerolD	93.32	23.14	0.64
+glycerolA, glycerolB, glycerolC, glycerolE	53.08	11.93	0.59
+glycerolA, glycerolB, glycerolD, glycerolE	52.64	12.15	0.58
+glycerolA, glycerolC, glycerolD, glycerolE	53.20	11.86	0.57
+glycerolB, glycerolC, glycerolD, glycerolE	51.64	12.78	0.58
+glycerol1, glycerol2, glycerolA, glycerolB, glycerolC	55.17	4.26	0.40
+glycerol1, glycerol2, glycerolA, glycerolB, glycerolD	54.78	4.35	0.40
+glycerol1, glycerol2, glycerolA, glycerolB, glycerolE	63.97	2.24	0.33
+glycerol1, glycerol2, glycerolA, glycerolC, glycerolD	55.28	4.23	0.41
+glycerol1, glycerol2, glycerolA, glycerolC, glycerolE	64.66	2.20	0.33
+glycerol1, glycerol2, glycerolA, glycerolD, glycerolE	64.12	2.24	0.34
+glycerol1, glycerol2, glycerolB, glycerolC, glycerolD	53.87	4.59	0.42
+glycerol1, glycerol2, glycerolB, glycerolC, glycerolE	62.74	2.38	0.35
+glycerol1, glycerol2, glycerolB, glycerolD, glycerolE	62.23	2.43	0.33
+glycerol1, glycerol2, glycerolC, glycerolD, glycerolE	62.88	2.34	0.33
+glycerol1, glycerolA, glycerolB, glycerolC, glycerolD	49.34	7.03	0.47
+glycerol1, glycerolA, glycerolB, glycerolC, glycerolE	56.67	3.56	0.39
+glycerol1, glycerolA, glycerolB, glycerolD, glycerolE	56.26	3.64	0.39
+glycerol1, glycerolA, glycerolC, glycerolD, glycerolE	56.79	3.53	0.40
+glycerol1, glycerolB, glycerolC, glycerolD, glycerolE	55.30	3.82	0.42
+glycerol2, glycerolA, glycerolB, glycerolC, glycerolD	61.38	8.71	0.49
+glycerol2, glycerolA, glycerolB, glycerolC, glycerolE	57.03	4.40	0.41
+glycerol2, glycerolA, glycerolB, glycerolD, glycerolE	56.63	4.49	0.42
+glycerol2, glycerolA, glycerolC, glycerolD, glycerolE	57.14	4.40	0.41
+glycerol2, glycerolB, glycerolC, glycerolD, glycerolE	55.69	4.77	0.43
+glycerolA, glycerolB, glycerolC, glycerolD, glycerolE	51.02	7.28	0.49
+glycerol1, glycerol2, glycerolA, glycerolB, glycerolC, glycerolD	52.57	2.58	0.33
+glycerol1, glycerol2, glycerolA, glycerolB, glycerolC, glycerolE	59.40	1.28	0.24
+glycerol1, glycerol2, glycerolA, glycerolB, glycerolD, glycerolE	59.02	1.31	0.25
+glycerol1, glycerol2, glycerolA, glycerolC, glycerolD, glycerolE	59.51	1.27	0.24
+glycerol1, glycerol2, glycerolB, glycerolC, glycerolD, glycerolE	58.14	1.37	0.25
+glycerol1, glycerolA, glycerolB, glycerolC, glycerolD, glycerolE	53.70	2.13	0.29
+glycerol2, glycerolA, glycerolB, glycerolC, glycerolD, glycerolE	54.39	2.66	0.31
+glycerol1, glycerol2, glycerolA, glycerolB, glycerolC, glycerolD, glycerolE	56.22	0.76	0.18

@@ -1,0 +1,121 @@
+Strain Combination	Observed Ratio (%)	Simulated Mean (%)	Simulated Std Dev (%)
+lactate2, lactate3	43.92	6.63	1.15
+lactate2, lactateA	57.14	6.06	1.28
+lactate2, lactateB	48.19	6.39	1.18
+lactate2, lactateC	48.06	6.47	1.17
+lactate2, lactateD	49.87	6.29	1.17
+lactate2, lactateE	75.00	5.31	1.43
+lactate3, lactateA	82.59	12.40	1.30
+lactate3, lactateB	93.99	14.10	1.27
+lactate3, lactateC	94.16	14.13	1.27
+lactate3, lactateD	91.73	13.80	1.25
+lactate3, lactateE	63.85	9.62	1.24
+lactateA, lactateB	88.49	11.78	1.34
+lactateA, lactateC	88.32	11.83	1.31
+lactateA, lactateD	90.73	11.55	1.34
+lactateA, lactateE	80.00	8.50	1.34
+lactateB, lactateC	99.83	13.41	1.32
+lactateB, lactateD	97.73	13.01	1.31
+lactateB, lactateE	69.20	9.24	1.26
+lactateC, lactateD	97.56	13.07	1.35
+lactateC, lactateE	69.04	9.24	1.30
+lactateD, lactateE	71.26	9.07	1.32
+lactate2, lactate3, lactateA	42.53	0.68	0.39
+lactate2, lactate3, lactateB	38.94	0.79	0.39
+lactate2, lactate3, lactateC	38.89	0.81	0.41
+lactate2, lactate3, lactateD	39.66	0.78	0.40
+lactate2, lactate3, lactateE	48.23	0.50	0.36
+lactate2, lactateA, lactateB	45.11	0.63	0.38
+lactate2, lactateA, lactateC	45.04	0.64	0.39
+lactate2, lactateA, lactateD	46.08	0.60	0.38
+lactate2, lactateA, lactateE	58.06	0.45	0.38
+lactate2, lactateB, lactateC	41.03	0.76	0.41
+lactate2, lactateB, lactateD	41.89	0.70	0.41
+lactate2, lactateB, lactateE	51.57	0.49	0.37
+lactate2, lactateC, lactateD	41.83	0.72	0.40
+lactate2, lactateC, lactateE	51.48	0.47	0.36
+lactate2, lactateD, lactateE	52.84	0.47	0.37
+lactate3, lactateA, lactateB	81.48	1.64	0.53
+lactate3, lactateA, lactateC	81.39	1.64	0.50
+lactate3, lactateA, lactateD	82.74	1.59	0.51
+lactate3, lactateA, lactateE	64.76	1.03	0.44
+lactate3, lactateB, lactateC	95.80	1.94	0.57
+lactate3, lactateB, lactateD	92.97	1.84	0.54
+lactate3, lactateB, lactateE	59.73	1.22	0.45
+lactate3, lactateC, lactateD	92.87	1.88	0.55
+lactate3, lactateC, lactateE	59.65	1.20	0.48
+lactate3, lactateD, lactateE	60.74	1.16	0.48
+lactateA, lactateB, lactateC	85.11	1.54	0.51
+lactateA, lactateB, lactateD	86.59	1.48	0.51
+lactateA, lactateB, lactateE	68.33	0.97	0.47
+lactateA, lactateC, lactateD	86.48	1.48	0.52
+lactateA, lactateC, lactateE	68.23	0.95	0.44
+lactateA, lactateD, lactateE	69.66	0.94	0.46
+lactateB, lactateC, lactateD	96.89	1.72	0.52
+lactateB, lactateC, lactateE	62.67	1.11	0.46
+lactateB, lactateD, lactateE	63.87	1.11	0.49
+lactateC, lactateD, lactateE	63.79	1.10	0.48
+lactate2, lactate3, lactateA, lactateB	39.20	0.09	0.14
+lactate2, lactate3, lactateA, lactateC	39.16	0.08	0.13
+lactate2, lactate3, lactateA, lactateD	39.74	0.08	0.13
+lactate2, lactate3, lactateA, lactateE	45.87	0.05	0.11
+lactate2, lactate3, lactateB, lactateC	36.81	0.11	0.14
+lactate2, lactate3, lactateB, lactateD	37.33	0.10	0.14
+lactate2, lactate3, lactateB, lactateE	42.69	0.06	0.12
+lactate2, lactate3, lactateC, lactateD	37.29	0.10	0.14
+lactate2, lactate3, lactateC, lactateE	42.64	0.06	0.12
+lactate2, lactate3, lactateD, lactateE	43.33	0.05	0.12
+lactate2, lactateA, lactateB, lactateC	40.77	0.08	0.13
+lactate2, lactateA, lactateB, lactateD	41.40	0.07	0.12
+lactate2, lactateA, lactateB, lactateE	48.09	0.05	0.11
+lactate2, lactateA, lactateC, lactateD	41.36	0.08	0.14
+lactate2, lactateA, lactateC, lactateE	48.03	0.05	0.12
+lactate2, lactateA, lactateD, lactateE	48.92	0.04	0.11
+lactate2, lactateB, lactateC, lactateD	38.75	0.09	0.13
+lactate2, lactateB, lactateC, lactateE	44.55	0.06	0.13
+lactate2, lactateB, lactateD, lactateE	45.31	0.05	0.12
+lactate2, lactateC, lactateD, lactateE	45.26	0.05	0.12
+lactate3, lactateA, lactateB, lactateC	80.87	0.21	0.20
+lactate3, lactateA, lactateB, lactateD	81.87	0.21	0.19
+lactate3, lactateA, lactateB, lactateE	61.33	0.13	0.16
+lactate3, lactateA, lactateC, lactateD	81.79	0.21	0.20
+lactate3, lactateA, lactateC, lactateE	61.26	0.14	0.17
+lactate3, lactateA, lactateD, lactateE	62.12	0.13	0.15
+lactate3, lactateB, lactateC, lactateD	93.53	0.25	0.21
+lactate3, lactateB, lactateC, lactateE	57.81	0.15	0.17
+lactate3, lactateB, lactateD, lactateE	58.57	0.15	0.17
+lactate3, lactateC, lactateD, lactateE	58.52	0.14	0.16
+lactateA, lactateB, lactateC, lactateD	84.58	0.19	0.19
+lactateA, lactateB, lactateC, lactateE	63.62	0.12	0.16
+lactateA, lactateB, lactateD, lactateE	64.55	0.12	0.16
+lactateA, lactateC, lactateD, lactateE	64.48	0.11	0.15
+lactateB, lactateC, lactateD, lactateE	60.67	0.14	0.16
+lactate2, lactate3, lactateA, lactateB, lactateC	37.41	0.01	0.05
+lactate2, lactate3, lactateA, lactateB, lactateD	37.84	0.01	0.05
+lactate2, lactate3, lactateA, lactateB, lactateE	42.12	0.00	0.03
+lactate2, lactate3, lactateA, lactateC, lactateD	37.80	0.01	0.04
+lactate2, lactate3, lactateA, lactateC, lactateE	42.08	0.01	0.04
+lactate2, lactate3, lactateA, lactateD, lactateE	42.62	0.01	0.04
+lactate2, lactate3, lactateB, lactateC, lactateD	36.03	0.01	0.05
+lactate2, lactate3, lactateB, lactateC, lactateE	39.90	0.01	0.05
+lactate2, lactate3, lactateB, lactateD, lactateE	40.38	0.01	0.04
+lactate2, lactate3, lactateC, lactateD, lactateE	40.35	0.01	0.04
+lactate2, lactateA, lactateB, lactateC, lactateD	38.99	0.01	0.04
+lactate2, lactateA, lactateB, lactateC, lactateE	43.56	0.00	0.03
+lactate2, lactateA, lactateB, lactateD, lactateE	44.14	0.00	0.03
+lactate2, lactateA, lactateC, lactateD, lactateE	44.10	0.00	0.03
+lactate2, lactateB, lactateC, lactateD, lactateE	41.70	0.01	0.04
+lactate3, lactateA, lactateB, lactateC, lactateD	81.29	0.03	0.07
+lactate3, lactateA, lactateB, lactateC, lactateE	59.39	0.02	0.06
+lactate3, lactateA, lactateB, lactateD, lactateE	60.03	0.02	0.06
+lactate3, lactateA, lactateC, lactateD, lactateE	59.98	0.02	0.06
+lactate3, lactateB, lactateC, lactateD, lactateE	57.30	0.02	0.06
+lactateA, lactateB, lactateC, lactateD, lactateE	61.78	0.02	0.06
+lactate2, lactate3, lactateA, lactateB, lactateC, lactateD	36.64	0.00	0.02
+lactate2, lactate3, lactateA, lactateB, lactateC, lactateE	39.91	0.00	0.02
+lactate2, lactate3, lactateA, lactateB, lactateD, lactateE	40.32	0.00	0.01
+lactate2, lactate3, lactateA, lactateC, lactateD, lactateE	40.29	0.00	0.01
+lactate2, lactate3, lactateB, lactateC, lactateD, lactateE	38.60	0.00	0.01
+lactate2, lactateA, lactateB, lactateC, lactateD, lactateE	41.41	0.00	0.02
+lactate3, lactateA, lactateB, lactateC, lactateD, lactateE	58.68	0.00	0.01
+lactate2, lactate3, lactateA, lactateB, lactateC, lactateD, lactateE	38.80	0.00	0.01
