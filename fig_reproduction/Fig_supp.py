@@ -291,9 +291,9 @@ group_Ds_mag_ecoli_k12_42C = {3: [33.19, 15.67, 30.41, 20.95, 8.12, 24.20, 26.02
     6:[-0.03, 94.88, -0.03, -0.03, -0.03]}
 
 input_files_ecoli_k12_42C = [
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_k12_42C/ecoli_k12_same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_k12_42C/ecoli_k12_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_k12_42C/ecoli_k12_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_k12_42C/ecoli_k12_same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_k12_42C/ecoli_k12_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_k12_42C/ecoli_k12_same_magnitude.txt'
 ]
 
 group_D_sets_ecoli_k12_42C = [group_Ds_deg_ecoli_k12_42C, group_Ds_dir_ecoli_k12_42C, group_Ds_mag_ecoli_k12_42C]
@@ -433,9 +433,9 @@ def plot_all_environments(env_directory, group_Ds, title_suptitle, rows=3, cols=
     plt.tight_layout(rect=[0, 0.05, 1, 0.93])
     plt.show()
 
-plot_all_environments("/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/same_genes", group_Ds_deg_ecoli_11_envs, r"$\it{E. coli}$", bar_color='dodgerblue', point_color='dodgerblue')
-plot_all_environments("/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/same_direction", group_Ds_dir_ecoli_11_envs, r"$\it{E. coli}$", bar_color='orange', point_color='orange')
-plot_all_environments("/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/same_magnitude", group_Ds_mag_ecoli_11_envs, r"$\it{E. coli}$", bar_color='red', point_color='red')
+plot_all_environments("evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_11_envs/same_genes", group_Ds_deg_ecoli_11_envs, r"$\it{E. coli}$", bar_color='dodgerblue', point_color='dodgerblue')
+plot_all_environments("evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_11_envs/same_direction", group_Ds_dir_ecoli_11_envs, r"$\it{E. coli}$", bar_color='orange', point_color='orange')
+plot_all_environments("evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_11_envs/same_magnitude", group_Ds_mag_ecoli_11_envs, r"$\it{E. coli}$", bar_color='red', point_color='red')
 
 
 # # Fig S3
@@ -445,13 +445,13 @@ plot_all_environments("/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/same
 
 ### Fig S3
 
-df_mag = pd.read_csv('/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/Z-score/ecoli_LTEE_same_magnitude_z.txt', sep='\t')
+df_mag = pd.read_csv('evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/Z-score/ecoli_LTEE_same_magnitude_z.txt', sep='\t')
 group_Ds_mag_ecoli_ltee = {i: [] for i in range(3, 11)} 
 
 for n in group_Ds_mag_ecoli_ltee:
      group_Ds_mag_ecoli_ltee[n] = df_mag.loc[df_mag['n_lines'] == n, 'D_stat'].tolist()
 
-df_deg = pd.read_csv('/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/Z-score/ecoli_LTEE_same_genes_z.txt', sep='\t')
+df_deg = pd.read_csv('evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/Z-score/ecoli_LTEE_same_genes_z.txt', sep='\t')
 
 df_deg['n_strains'] = df_deg['lines'].str.count(r'\|') + 1
 
@@ -525,9 +525,9 @@ group_Ds_dir_ecoli_ltee = {3: [55.91, 64.10, 66.92, 54.03, 56.49, 82.30, 67.60, 
 } 
 
 input_files_ecoli_ltee = [
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_magnitude.txt'
 ]
 
 group_D_sets_ecoli_ltee = [group_Ds_deg_ecoli_ltee, group_Ds_dir_ecoli_ltee, group_Ds_mag_ecoli_ltee]
@@ -570,14 +570,14 @@ group_Ds_salt_h2o2_dir = {2:[7.80, 9.53, 8.38, 22.98, 20.95, 21.69, 26.65, 27.81
 group_Ds_salt_h2o2_mag = {2: []} # all inf!
 
 input_files_salt = [
-    '/Users/jiachenli/Desktop/Fig_supp_data/yeast/salt_same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/yeast/salt_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/yeast/salt_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data/yeast/salt_same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/yeast/salt_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/yeast/salt_same_magnitude.txt'
 ]
 input_files_h2o2 = [
-    '/Users/jiachenli/Desktop/Fig_supp_data/yeast/h2o2_same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/yeast/h2o2_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/yeast/h2o2_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data/yeast/h2o2_same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/yeast/h2o2_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/yeast/h2o2_same_magnitude.txt'
 ]
 
 group_D_sets_salt = [group_Ds_salt_deg, group_Ds_salt_dir, group_Ds_salt_mag]
@@ -624,9 +624,9 @@ group_Ds_dir_copepod = {3: [168.44, 244.79, 147.43, 417.78], 4: [1330.76]}
 group_Ds_mag_copepod = {3: [30.35, 89.22, 13.44, 32.78], 4: [31.61]}
 
 input_files_copepod = [
-    '/Users/jiachenli/Desktop/Fig_supp_data/copepod/copepod_same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/copepod/copepod_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/copepod/copepod_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data/copepod/copepod_same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/copepod/copepod_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/copepod/copepod_same_magnitude.txt'
 ]
 
 group_D_sets_copepod = [group_Ds_deg_copepod, group_Ds_dir_copepod, group_Ds_mag_copepod]
@@ -662,9 +662,9 @@ group_Ds_dir_fly = {3: [569.46, 411.27, 292.50, 269.27, 506.19, 146.58, 347.36]}
 group_Ds_mag_fly = {3: [44.01, 32.52, 11.54, 18.75, 37.32, 10.12, 12.19, 5.43, 19.29, 38.70]}
 
 input_files_fly = [
-    '/Users/jiachenli/Desktop/Fig_supp_data/fly/fly_same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/fly/fly_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/fly/fly_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data/fly/fly_same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/fly/fly_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/fly/fly_same_magnitude.txt'
 ]
 
 group_D_sets_fly = [group_Ds_deg_fly, group_Ds_dir_fly, group_Ds_mag_fly]
@@ -732,9 +732,9 @@ group_Ds_mag_flower = {3: [25.87, 45.27, 10.25, 15.11, 39.16, 13.5, 56.96, 8.95,
     22.34, 54.80, 31.61, -0.04]}
 
 input_files = [
-    '/Users/jiachenli/Desktop/Fig_supp_data//morning_glory/morning_glory_same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data//morning_glory/morning_glory_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data//morning_glory/morning_glory_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data//morning_glory/morning_glory_same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data//morning_glory/morning_glory_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data//morning_glory/morning_glory_same_magnitude.txt'
 ]
 
 group_D_sets = [group_Ds_deg_flower, group_Ds_dir_flower, group_Ds_mag_flower]
@@ -851,16 +851,16 @@ def plot_between_env(output_file, bar_color, z_scores=None, baseline_files=None,
     plt.show()
 
 
-base = "/Users/jiachenli/Desktop/Fig_supp_data/yeast/FigS8_between_envs"
+base = "evo_repeatability/fig_reproduction/Fig_supp_data/yeast/FigS8_between_envs"
 file_deg = f"{base}/salt_h2o2_same_genes.txt"
 file_dir = f"{base}/salt_h2o2_same_direction.txt"
 file_mag = f"{base}/salt_h2o2_same_magnitude.txt"
-salt_deg = "/Users/jiachenli/Desktop/Fig_supp_data/yeast/salt_same_genes.txt"
-h2o2_deg = "/Users/jiachenli/Desktop/Fig_supp_data/yeast/h2o2_same_genes.txt"
-salt_dir = "/Users/jiachenli/Desktop/Fig_supp_data/yeast/salt_same_direction.txt"
-h2o2_dir = "/Users/jiachenli/Desktop/Fig_supp_data/yeast/h2o2_same_direction.txt"
-salt_mag = "/Users/jiachenli/Desktop/Fig_supp_data/yeast/salt_same_magnitude.txt"
-h2o2_mag = "/Users/jiachenli/Desktop/Fig_supp_data/yeast/h2o2_same_magnitude.txt"
+salt_deg = "evo_repeatability/fig_reproduction/Fig_supp_data/yeast/salt_same_genes.txt"
+h2o2_deg = "evo_repeatability/fig_reproduction/Fig_supp_data/yeast/h2o2_same_genes.txt"
+salt_dir = "evo_repeatability/fig_reproduction/Fig_supp_data/yeast/salt_same_direction.txt"
+h2o2_dir = "evo_repeatability/fig_reproduction/Fig_supp_data/yeast/h2o2_same_direction.txt"
+salt_mag = "evo_repeatability/fig_reproduction/Fig_supp_data/yeast/salt_same_magnitude.txt"
+h2o2_mag = "evo_repeatability/fig_reproduction/Fig_supp_data/yeast/h2o2_same_magnitude.txt"
 group_Ds_salt_h2o2_deg = {2:[11.19, 10.97, 11.08, 16.53, 17.3, 17.6, 20.04, 21.08, 20.44]}
 group_Ds_salt_h2o2_dir = {2:[7.80, 9.53, 8.38, 22.98, 20.95, 21.69, 26.65, 27.81, 27.75]}
 group_Ds_salt_h2o2_mag = {2:[]}
@@ -950,7 +950,7 @@ def plot_combined_S9(output_file,
 
 # === Example ===
 fig, ax1 = plot_combined_S9(
-    output_file='/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/FigS9a_BuOH_vs_MCL.txt',
+    output_file='evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/FigS9a_BuOH_vs_MCL.txt',
     group_Ds=None,
     point_color='dodgerblue',
 )
@@ -962,9 +962,9 @@ dir_dice = [43.2,21.7,45.3,60.0,27.9,7.6,34.1,62.8,43.7,25.3,48.9]
 mag_dice = [43.2,20.6,44.9,58.4,27.9,7.56,34.1,62.8,43.7,24.9,48.2]
 
 paths = {
-    "DEG": "/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/same_genes.txt",
-    "Direction": "/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/same_direction.txt",
-    "Magnitude": "/Users/jiachenli/Desktop/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/same_magnitude.txt",
+    "DEG": "evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/same_genes.txt",
+    "Direction": "evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/same_direction.txt",
+    "Magnitude": "evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_11_envs/FigS9_between_envs/same_magnitude.txt",
 }
 
 envs = ["NaCl","KCl","CoCl2","Na2CO3","Lac","Mal","MCL","MG","BuOH","CPC","Cro"]
@@ -1068,7 +1068,7 @@ def _panel(ax1, output_file, group_Ds, bar_color, point_color, group_spacing=2.0
     sns.despine(ax=ax2, top=True, right=False, left=False, bottom=False)
     return Ns, x, w, obs_means, obs_ses, go
 
-data_dir = Path("/Users/jiachenli/Desktop/Fig_supp_data/ecoli_gly_lac_log2/")
+data_dir = Path("evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_gly_lac_log2/")
 
 rows = [
     ("same_genes", "dodgerblue",
@@ -1134,8 +1134,8 @@ plt.show()
 # In[69]:
 
 
-mag_frac = pd.read_csv('/Users/jiachenli/Desktop/repeatable_evolution/Results/lenski_elife/use_log2_2/mag_frac_0507.txt', sep='\t')
-deg_frac = pd.read_csv('/Users/jiachenli/Desktop/repeatable_evolution/Results/lenski_elife/use_log2_2/DEG/evolution_ratios_deg_D.txt', sep='\t')
+mag_frac = pd.read_csv('evo_repeatability/fig_reproduction/repeatable_evolution/Results/lenski_elife/use_log2_2/mag_frac_0507.txt', sep='\t')
+deg_frac = pd.read_csv('evo_repeatability/fig_reproduction/repeatable_evolution/Results/lenski_elife/use_log2_2/DEG/evolution_ratios_deg_D.txt', sep='\t')
 
 def _count_members(s):
     s = str(s)
@@ -1155,7 +1155,7 @@ def make_group(ds_df):
 group_Ds_mag_fl = make_group(mag_frac)
 group_Ds_deg_fl = make_group(deg_frac)
 
-file_path = "/Users/jiachenli/Desktop/repeatable_evolution/Results/lenski_elife/use_log2_2/d_values.txt"
+file_path = "evo_repeatability/fig_reproduction/repeatable_evolution/Results/lenski_elife/use_log2_2/d_values.txt"
 d_values_by_length = {}
 with open(file_path, "r") as f:
     for line in f:
@@ -1175,9 +1175,9 @@ with open(file_path, "r") as f:
 group_Ds_dir_fl = {k: d_values_by_length.get(k, []) for k in range(2, 12)}
 
 input_files = [
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/FigS11/same_genes.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_direction.txt',
-    '/Users/jiachenli/Desktop/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_magnitude.txt'
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/FigS11/same_genes.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_direction.txt',
+    'evo_repeatability/fig_reproduction/Fig_supp_data/ecoli_LTEE/ecoli_LTEE_same_magnitude.txt'
 ]
 
 group_D_sets = [group_Ds_deg_fl, group_Ds_dir_fl, group_Ds_mag_fl]
