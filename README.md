@@ -1,6 +1,12 @@
 # Evolutionary repeatability
 This repo contains python code and data for the paper: How repeatable is phenotypic evolution?
 
+Dependency: Python3
+
+Please either clone this repo to run the code:
+git clone 
+
+
 fig_reproduction:
 This directory contains code and all necessary data to reproduce main and supplementary figures presented in the paper. 
 
