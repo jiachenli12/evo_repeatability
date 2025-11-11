@@ -1,10 +1,14 @@
 # Evolutionary repeatability
 This repo contains python code and data for the paper: How repeatable is phenotypic evolution?
 
-Dependency: Python3
 
 Please either clone this repo to run the code:
-git clone 
+
+git clone https://github.com/jiachenli12/evo_repeatability.git
+
+
+
+Directories in this repo:
 
 
 fig_reproduction:
@@ -20,3 +24,6 @@ This directory contains custom code to examine the three definitions of gene exp
 3. magnitude_def3: the third definition of evolutionary repeatability
 
 4. dice_coefficient: compute dice's coefficent
+
+
+Dependency: Python3
