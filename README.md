@@ -10,7 +10,6 @@ git clone https://github.com/jiachenli12/evo_repeatability.git
 ```
 
 
-
 ## Directories in this repo:
 
 
@@ -28,5 +27,6 @@ This directory contains custom code to examine the three definitions of gene exp
 
 4. dice_coefficient: compute dice's coefficent
 
+   
+#### Dependency: Python3
 
-Dependency: Python3
