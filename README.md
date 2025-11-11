@@ -4,7 +4,11 @@ This repo contains python code and data for the paper: How repeatable is phenoty
 
 Please either clone this repo to run the code:
 
+## Clone this repository
+
+```bash
 git clone https://github.com/jiachenli12/evo_repeatability.git
+```
 
 
 
