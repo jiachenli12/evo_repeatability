@@ -1,5 +1,5 @@
 # Evolutionary repeatability
-This repo contains python code and data for the paper: Repeatability of gene expression evolution in experimental environmental adaptation?
+This repo contains python code and intermediate data used in the paper: Repeatability of gene expression evolution in experimental environmental adaptation?
 
 
 
@@ -14,7 +14,7 @@ git clone https://github.com/jiachenli12/evo_repeatability.git
 
 
 #### fig_reproduction:
-This directory contains code and all necessary data to reproduce main and supplementary figures presented in the paper. 
+This directory contains code and relevant data to reproduce main and supplementary figures presented in the paper. 
 
 #### src:
 This directory contains custom code to examine the three definitions of gene expression evoution repeatability.
