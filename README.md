@@ -1,5 +1,5 @@
 # Evolutionary repeatability
-This repo contains python code and data for the paper: How repeatable is phenotypic evolution?
+This repo contains python code and data for the paper: Repeatability of gene expression evolution in experimental environmental adaptation?
 
 
 
